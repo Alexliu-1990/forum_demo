@@ -1,0 +1,116 @@
+
+li {
+    list-style: none;
+    color: #7e7e7e;
+}
+
+a {
+    text-decoration:none;
+    color: #7e7e7e;
+}
+
+li a {
+    display:block;
+    width:60px
+}
+
+nav .container {
+    width: 90%;
+}
+
+hr {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem
+}
+
+#title {
+    margin-bottom: 0.4em;
+    font-family: 'Indie Flower', cursive;
+    font-size: 22px;
+    color: #7e7e7e;
+    float:left;
+}
+
+.navlist li {
+    display: inline;
+    float: left;
+}
+
+.navprofile li {
+    display: inline;
+    float: right;
+    margin-left: 10px;
+}
+
+.bottom {
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+}
+
+.bottom ul {
+    display:block;
+    width: 550px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.bottom li {
+    display: inline-block;
+    margin:0 20px;
+}
+
+.foot p {
+    color: #7e7e7e;
+}
+
+.form {
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    color: #7e7e7e;
+}
+
+.forum {
+    width: 90%;
+    margin: 0 auto;
+    color: #7e7e7e
+}
+
+.write {
+    float: right;
+}
+
+.pagination ul {
+    text-align: center;
+    list-style: none;
+}
+
+.pagination ul li {
+    display: inline;
+    padding: 5px;
+}
+
+.pagination ul li a{
+    display: inline;
+}
+
+.show hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.showhr {
+    margin-bottom: 0px;
+}
+
+.textposition .columns {
+    text-align: center;
+    line-height: 125px;
+    background: #EEE;
+    width: 422px;
+    height: 250px;
+    margin: 5px;
+}
+
+
