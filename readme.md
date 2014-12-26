@@ -18,7 +18,7 @@ This is a simple forum demo written in Laravel 4.2.
 
 ### 1. Clone the repo
     
-    git clone https://github.com/Alexliu-1990/forum_demo.git
+    git clone https://github.com/Alexliu-1990/forum_demo
 
 ### 2. Composer install
 
